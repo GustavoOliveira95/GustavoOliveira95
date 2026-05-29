@@ -10,7 +10,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,nodejs,cs,dotnet,mongodb,azure,gcp,docker,kubernetes,redis,rabbitmq,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,nodejs,cs,dotnet,mongodb,azure,gcp,docker,kubernetes,redis,rabbitmq,git)](https://skillicons.dev)
 
 
 <div align="center">
